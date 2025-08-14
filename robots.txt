@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: JoeHarman.github.io/sitemap.xml
+Sitemap: https://JoeHarman.github.io/sitemap.xml
