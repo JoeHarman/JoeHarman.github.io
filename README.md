@@ -1,4 +1,4 @@
-# JoeHarman.github.io
+# JoeHarman
 
 Personal github pages website.
 
