@@ -515,7 +515,14 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0003-3668-1859", "_blank");
+          window.open("https://orcid.org/0000-0003-3668-1859", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/JoeHarman12", "_blank");
         },
       },{
       id: 'light-theme',
