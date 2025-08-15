@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - JoeHarman
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - JoeHarman/MLLAF4-GRN_paper_2021 # MLLAF4 Gene Regulatory Network paper
+  - JoeHarman/ShinyApp_mouse_EHT_GRN # ShinyApp demonstrating EHT Gene Regulatory Network
