@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dark Blue Therapeutics</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Joe Harman, a senior research scientist (and bioinformatician) at Dark Blue Therapeutics. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have ~8 years experience in academic research, starting in the de Bruijn lab as a research assistant in 2015. In 2018 I started my DPhil in the Milne lab (Weatherall Institute, University of Oxford), and successfully defended my thesis (with commendation) in 2023. Following submission of my thesis, I worked as a Postdoctoral researcher in the de Bruijn lab for a short period, before joining Dark Blue Therapeutics as a research scientist.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Throughout my career, I have practiced a combination of wet lab and bioinformatics. In terms of computational biology I am experienced with analysing RNA-seq, ChIP-seq, ATAC-seq, proteomics, and their single-cell equivalents. I also have some experience analysing 3C data (micrococal capture-C). During my DPhil, my thesis was focused on synthesising new knowledge in combining different 'omics datasets and using these to infer gene regulatory networks (GRNs). Towards the end of my DPhil much of my work was focused on generating and analysing single-cell multiomics data and constructing GRNs from these datasets. 
+
+On the wet lab side, I have specialised in molecular biology, cloning, and CRISPR gene editing. Molecular biology methods include library preparation (RNA-seq, ChIP-seq, CUT&Tag, ATAC-seq), qPCR, ddPCR, western blotting, immunofluoresence imaging. I am experienced with performing and designing various cloning methods, including gibson assembly. I have used CRISPR gene editing approaches to engineer mESCs and leukaemic cell lines to generate INDELs, in-frame HDR insertions, and enhancer-excisions.
+
+At Dark Blue Therapeutics, I have continued to practice both wet lab work and bioinformatics. I have leveraged my molecular biology experience to answer key mechanistic questions for multiple projects in the company, and I have performed assay development for early projects, where assays have been taken on by a compound screening team. On the computational biology side, I have been involved in developing protocols for Dotmatics ELN to facilitate formal analysis and reporting of screening data (requring development of my SQL knowledge!). I have also, in collaboration with consultants, helped establish bioinformatics infrastructure including: AWS S3 storage, Nextflow pipelines in AWS batch, GitHub code documentations and workflows, data backup policies, external collaboration policies. 
