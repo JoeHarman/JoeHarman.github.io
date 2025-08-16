@@ -26,17 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Joe Harman, a senior research scientist (and bioinformatician) at Dark Blue Therapeutics (DBT). 
+I'm Joe Harman, a senior research scientist and bioinformatician at Dark Blue Therapeutics (DBT). 
 
-I have ~8 years experience in academic research, starting in the de Bruijn lab as a research assistant in 2015. In 2018 I started my DPhil in the Milne lab (Weatherall Institute, University of Oxford), and graduated in 2023. I joined DBT as a research scientist in 2023.
+I have ten years of experience spanning both academic and industry research. I began my career in the de Bruijn lab as a research assistant (2015-2018), before completing my DPhil in the Milne lab at the Weatherall Institute, University of Oxford (2018-2023). 
 
-My work bridges computational and molecular biology. I enjoy using large-scale ‘omics data to uncover how genes are regulated in cancer, while also being able to leverage molecular techniques to test these mechanisms in the lab. 
+My doctoral work focused on integrating multi-omics datasets (bulk and single-cell) to infer gene regulatory networks (GRNs) in cancer and in embryonic haematopoiesis. I complemented this computational work with molecular biology and CRISPR genome editing, validating GRN predictions in mouse embryonic stem cells and leukaemic cell models.
 
-My DPhil was focused on incorporating generating and analysing various 'omics data (RNA, ChIP, ATAC, proteomics) to infer gene regulatory networks (GRNs) in cancer (both cell line models and patient data) and embryonic haematopoietic ontogeny (mESC's, mouse data). I was then able to use various molecular biology techniques and CRISPR genome editing to validate the findings from these GRNs in the lab.
+At DBT, I apply this dual skill set to drug discovery projects. I have supported lead programs through molecular biology assays and bioinformatics analyses, contributed to assay development that established screening platforms now used in early-stage projects, and built Dotmatics-based screening protocols, drawing on SQL and database expertise. In collaboration with consultants, I have also established bioinformatics infrastructure, including AWS cloud storage and scalable Nextflow pipelines.
 
-
-On the wet lab side, I have specialised in molecular biology, cloning, and CRISPR gene editing. Molecular biology methods include library preparation (RNA-seq, ChIP-seq, CUT&Tag, ATAC-seq), qPCR, ddPCR, western blotting. I have used CRISPR gene editing approaches to engineer mESCs and leukaemic cell lines to generate INDELs, in-frame HDR insertions, and enhancer-excisions.
-
-At DBT, I have performed various molecular biology assays and bioinformatics analyses to support a lead project. My work on assay development has helped establish screening platforms now used in early drug discovery projects. I have also developed Dotmatics screening protocols (using SQL and database knowledge) to further support screening platforms. In collaboration with consultants, I have established bioinformatics infrastructure, such as AWS and Nextflow pipelines for data analysis. 
-
-I have also developed Dotmatics screening analysis protocols, requiring SQL and database knowledge. In collaboration with consultants, I have also established bioinformatics infrastructure including: AWS S3 storage, Nextflow pipelines in AWS batch, GitHub code documentations and workflows. 
+My work bridges computational and experimental biology, and I am motivated by the challenge of connecting large-scale genomic data with molecular experimentation to address key questions in drug discovery.
