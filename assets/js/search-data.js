@@ -522,6 +522,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0003-3668-1859", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=R-5qcRUAAAAJ", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
