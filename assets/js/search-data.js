@@ -440,16 +440,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-submitted-dphil-thesis-thanks-to-everyone-in-the-milne-lab-for-a-fantastic-dphil-experience",
+          title: 'Submitted DPhil thesis. Thanks to everyone in the Milne lab for a fantastic...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-joined-the-de-bruijn-lab-as-a-postdoctoral-scientist",
+          title: 'Joined the de Bruijn lab as a Postdoctoral Scientist',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-successfully-defended-my-thesis",
+          title: 'Successfully defended my thesis!',
+          description: "",
+          section: "News",},{id: "news-joined-dark-blue-therapeutics-as-a-research-scientist",
+          title: 'Joined Dark Blue Therapeutics as a Research Scientist!',
+          description: "",
+          section: "News",},{id: "news-promoted-to-senior-research-scientist-at-dark-blue-therapeutics",
+          title: 'Promoted to Senior Research Scientist at Dark Blue Therapeutics',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
