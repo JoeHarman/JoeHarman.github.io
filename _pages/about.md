@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Senior Research Scientist</p>
     <p>Dark Blue Therapeutics</p>
+    <p><a href="https://www.darkbluetx.com">https://www.darkbluetx.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
