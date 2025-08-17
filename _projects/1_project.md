@@ -33,6 +33,7 @@ I regularly attend life drawing classes and events. I primarily use charcoal on 
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/PXL_20250520_190923247.jpg" title="lifedrawing" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Life drawing, charcoal. Left, abstract shapes. Middle, abstract shapes and shading. Right, practice in drawing by erasing into charcoal.
