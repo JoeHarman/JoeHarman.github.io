@@ -446,21 +446,21 @@ ninja.data = [{
           description: "an example of a distill-style blog post and main elements",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2018-12-22-distill/";
-            },},{id: "projects-grn-model-of-kmt2ar-leukaemia",
-          title: 'GRN model of KMT2Ar leukaemia',
-          description: "GRN model of KMT2Ar leukaemia",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/GRN%20model%20of%20KMT2Ar%20leukaemia/";
-            },},{id: "projects-grn-model-of-embryonic-haematopoiesis",
-          title: 'GRN model of embryonic haematopoiesis',
-          description: "GRN model of embryonic haematopoiesis",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/GRN%20model%20of%20embryonic%20haematopoiesis/";
             },},{id: "projects-ngs-investigation-of-mllt",
           title: 'NGS investigation of MLLT',
           description: "NGS investigation of MLLT",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/NGS%20investigation%20of%20MLLT/";
+              window.location.href = "/projects/dbt_mllt/";
+            },},{id: "projects-grn-model-of-embryonic-haematopoiesis",
+          title: 'GRN model of embryonic haematopoiesis',
+          description: "GRN model of embryonic haematopoiesis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dphil_eht/";
+            },},{id: "projects-grn-model-of-kmt2ar-leukaemia",
+          title: 'GRN model of KMT2Ar leukaemia',
+          description: "GRN model of KMT2Ar leukaemia",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dphil_kmt2a/";
             },},{id: "projects-life-drawing",
           title: 'Life drawing',
           description: "Life drawing artwork, charcoal on paper",
