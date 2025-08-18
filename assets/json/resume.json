@@ -13,7 +13,7 @@
       "startDate": "2023-06-15",
       "endDate": "Present",
       "url": "https://www.darkbluetx.com",
-      "summary": "",
+      "summary": "Molecular biology and bioinformatics in a small biotech company focused on novel, academic research-backed drug discovery programmes.",
       "highlights": [
         "Bioinformatics analysis, and computational infrastructure development",
         "Dotmatics protocol development and implementation",
@@ -25,7 +25,7 @@
       "position": "Postdoctoral Research Scientist",
       "startDate": "2022-11-01",
       "endDate": "2023-06-01",
-      "summary": "",
+      "summary": "Short postdoctoral position in the de Bruijn lab, focusing on gene regulatory network modelling in embryonic haematopoiesis.",
       "highlights": [
         "Single-cell RNA+ATAC multiomics in embryonic haematopoiesis",
         "Gene regulatory network analysis"
@@ -36,7 +36,7 @@
       "position": "Research Assistant",
       "startDate": "2018-10-01",
       "endDate": "2022-10-01",
-      "summary": "",
+      "summary": "Research assistant position, performing routine lab management, mouse husbandry, bioinformatics, and histology.",
       "highlights": [
         "Mouse husbandry and embryology",
         "Molecular biology and CRISPR genome editing",
@@ -53,29 +53,24 @@
       "studyType": "DPhil",
       "startDate": "2018-10",
       "endDate": "2022-10",
-      "thesis": [
+      "highlights": [
         "Thesis title: Regulatory network analyses highlight transcription factor cooperation in haematopoiesis and leukaemogenesis",
         "Received commendation for outstanding thesis",
         "Supervised by Professor Tom Milne and Professor Marella de Bruijn"
-      ],
-      "highlights": [
-        ""
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Nextflow..................",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Hello Nextflow",
+      "date": "2025-06",
+      "issuer": "Seqera",
+      "icon": "fa-solid fa-code"
     },
     {
-      "name": "AWS 101...............",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AWS Educate Getting Started series",
+      "date": "2025-07",
+      "issuer": "AWS",
       "icon": "fa-solid fa-tag"
     },
     {
