@@ -2,7 +2,7 @@
 layout: page
 title: GRN model of embryonic haematopoiesis
 description: GRN model of embryonic haematopoiesis
-img: 
+img:
 importance: 2
 category: work
 ---

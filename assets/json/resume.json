@@ -18,7 +18,8 @@
         "Bioinformatics analysis, and computational infrastructure development",
         "Dotmatics protocol development and implementation",
         "Assay development and validation",
-        "Genome engineering"]
+        "Genome engineering"
+      ]
     },
     {
       "name": "University of Oxford",
@@ -26,10 +27,7 @@
       "startDate": "2022-11-01",
       "endDate": "2023-06-01",
       "summary": "Short postdoctoral position in the de Bruijn lab, focusing on gene regulatory network modelling in embryonic haematopoiesis.",
-      "highlights": [
-        "Single-cell RNA+ATAC multiomics in embryonic haematopoiesis",
-        "Gene regulatory network analysis"
-      ]
+      "highlights": ["Single-cell RNA+ATAC multiomics in embryonic haematopoiesis", "Gene regulatory network analysis"]
     },
     {
       "name": "University of Oxford",
@@ -54,9 +52,7 @@
       "startDate": "2018-10",
       "endDate": "2022-10",
       "summary": "Thesis title: Regulatory network analyses highlight transcription factor cooperation in haematopoiesis and leukaemogenesis. Supervised by Professor Tom Milne and Professor Marella de Bruijn.",
-      "highlights": [
-        "Received commendation for outstanding thesis"
-      ]
+      "highlights": ["Received commendation for outstanding thesis"]
     }
   ],
   "skills": [
@@ -64,20 +60,12 @@
       "name": "NGS library preparation",
       "level": "Advanced",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "RNA-seq, TT-seq",
-        "ChIP-seq, CUT&RUN, CUT&Tag, ATAC-seq",
-        "DRIP-seq"
-      ]
+      "keywords": ["RNA-seq, TT-seq", "ChIP-seq, CUT&RUN, CUT&Tag, ATAC-seq", "DRIP-seq"]
     },
     {
       "name": "Coding languages",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Advanced - R, Bash",
-        "Moderate - Python, Nextflow",
-        "Some experience - SQL, Snakemake"
-      ]
+      "keywords": ["Advanced - R, Bash", "Moderate - Python, Nextflow", "Some experience - SQL, Snakemake"]
     },
     {
       "name": "Data management and analysis",
@@ -93,29 +81,19 @@
       "name": "Bioinformatics",
       "level": "Advanced",
       "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "Python, R, Bash",
-        "Nextflow, Snakemake",
-        "Galaxy, Jupyter Notebooks"
-      ]
+      "keywords": ["Python, R, Bash", "Nextflow, Snakemake", "Galaxy, Jupyter Notebooks"]
     },
     {
       "name": "Molecular biology",
       "level": "Advanced",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "CRISPR genome editing",
-        "qPCR, ddPCR, Sanger sequencing"
-      ]
+      "keywords": ["CRISPR genome editing", "qPCR, ddPCR, Sanger sequencing"]
     },
     {
       "name": "Data analysis and visualisation",
       "level": "Advanced",
       "icon": "fa-solid fa-chart-bar",
-      "keywords": [
-        "Matplotlib, Seaborn, Plotly",
-        "ggplot2, Shiny"
-      ]
+      "keywords": ["Matplotlib, Seaborn, Plotly", "ggplot2, Shiny"]
     }
   ],
   "certificates and training": [
@@ -181,10 +159,7 @@
     {
       "name": "Art",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Life drawing, charcoal",
-        "Digital art"
-      ]
+      "keywords": ["Life drawing, charcoal", "Digital art"]
     }
   ]
 }

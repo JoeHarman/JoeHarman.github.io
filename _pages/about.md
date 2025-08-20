@@ -22,9 +22,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I'm Joe Harman, a senior research scientist and bioinformatician at Dark Blue Therapeutics (DBT). 
+I'm Joe Harman, a senior research scientist and bioinformatician at Dark Blue Therapeutics (DBT).
 
-I have ten years of experience spanning both academic and industry research. I began my career in the de Bruijn lab as a research assistant (2015-2018), before completing my DPhil in the Milne lab at the Weatherall Institute, University of Oxford (2018-2023). 
+I have ten years of experience spanning both academic and industry research. I began my career in the de Bruijn lab as a research assistant (2015-2018), before completing my DPhil in the Milne lab at the Weatherall Institute, University of Oxford (2018-2023).
 
 My doctoral work focused on integrating multi-omics datasets (bulk and single-cell) to infer gene regulatory networks (GRNs) in cancer and in embryonic haematopoiesis. I complemented this computational work with molecular biology and CRISPR genome editing, validating GRN predictions in mouse embryonic stem cells and leukaemic cell models.
 

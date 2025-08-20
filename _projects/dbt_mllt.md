@@ -2,7 +2,7 @@
 layout: page
 title: NGS investigation of MLLT
 description: NGS investigation of MLLT
-img: 
+img:
 importance: 3
 category: work
 ---
