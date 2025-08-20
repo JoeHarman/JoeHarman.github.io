@@ -96,7 +96,7 @@
       "keywords": ["Matplotlib, Seaborn, Plotly", "ggplot2, Shiny"]
     }
   ],
-  "certificates and training": [
+  "certificates": [
     {
       "name": "Hello Nextflow",
       "date": "2025-06",
@@ -126,7 +126,7 @@
       "summary": "This study identifies a gene regulatory network involving KMT2A and AFF1, two key transcription factors in leukaemia, and elucidates their downstream target genes."
     }
   ],
-  "conference attendance": [
+  "conferences": [
     {
       "name": "EHA Research Conference 2025 - Transcriptional control and chromatin alterations in normal and abnormal hematopoiesis",
       "publisher": "EHA",
