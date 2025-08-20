@@ -53,41 +53,10 @@
       "studyType": "DPhil",
       "startDate": "2018-10",
       "endDate": "2022-10",
+      "summary": "Thesis title: Regulatory network analyses highlight transcription factor cooperation in haematopoiesis and leukaemogenesis. Supervised by Professor Tom Milne and Professor Marella de Bruijn.",
       "highlights": [
-        "Thesis title: Regulatory network analyses highlight transcription factor cooperation in haematopoiesis and leukaemogenesis",
-        "Received commendation for outstanding thesis",
-        "Supervised by Professor Tom Milne and Professor Marella de Bruijn"
+        "Received commendation for outstanding thesis"
       ]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Hello Nextflow",
-      "date": "2025-06",
-      "issuer": "Seqera",
-      "icon": "fa-solid fa-code"
-    },
-    {
-      "name": "AWS Educate Getting Started series",
-      "date": "2025-07",
-      "issuer": "AWS",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Software carpentry.............",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "A KMT2A-AFF1 gene regulatory network highlights the role of core transcription factors and reveals the regulatory logic of key downstream target genes",
-      "publisher": "Cold Spring Harbor Lab",
-      "releaseDate": "2021",
-      "url": "https://genome.cshlp.org/content/31/7/1159}",
-      "summary": "This study identifies a gene regulatory network involving KMT2A and AFF1, two key transcription factors in leukaemia, and elucidates their downstream target genes."
     }
   ],
   "skills": [
@@ -149,6 +118,61 @@
       ]
     }
   ],
+  "certificates and training": [
+    {
+      "name": "Hello Nextflow",
+      "date": "2025-06",
+      "issuer": "Seqera",
+      "icon": "fa-solid fa-code"
+    },
+    {
+      "name": "AWS Educate Getting Started series",
+      "date": "2025-07",
+      "issuer": "AWS",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Software carpentry.............",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A KMT2A-AFF1 gene regulatory network highlights the role of core transcription factors and reveals the regulatory logic of key downstream target genes",
+      "publisher": "Cold Spring Harbor Lab",
+      "releaseDate": "2021",
+      "url": "https://genome.cshlp.org/content/31/7/1159",
+      "summary": "This study identifies a gene regulatory network involving KMT2A and AFF1, two key transcription factors in leukaemia, and elucidates their downstream target genes."
+    }
+  ],
+  "conference attendance": [
+    {
+      "name": "EHA Research Conference 2025 - Transcriptional control and chromatin alterations in normal and abnormal hematopoiesis",
+      "publisher": "EHA",
+      "releaseDate": "2025"
+    },
+    {
+      "name": "Gene Regulatory Networks 2023, poster",
+      "publisher": "The genetics society",
+      "releaseDate": "2023",
+      "url": "https://genetics.org.uk/events/gene-regulatory-networks/"
+    },
+    {
+      "name": "ISEH 2021, talk",
+      "publisher": "Experimental Hematology",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1016/j.exphem.2021.12.383"
+    },
+    {
+      "name": "RUNX meeting 2019, poster",
+      "publisher": "???",
+      "releaseDate": "2019"
+    }
+  ],
+
   "interests": [
     {
       "name": "Reading",
