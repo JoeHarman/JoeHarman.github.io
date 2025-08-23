@@ -15,31 +15,37 @@
       "url": "https://www.darkbluetx.com",
       "summary": "Molecular biology and bioinformatics in a small biotech company focused on novel, academic research-backed drug discovery programmes.",
       "highlights": [
-        "Bioinformatics analysis, and computational infrastructure development",
-        "Dotmatics protocol development and implementation",
-        "Assay development and validation",
-        "Genome engineering"
+        "Bioinformatics to generate mechanistic insights on lead compounds, informing on viable patient populations, and new target evaluation.",
+        "AWS S3 data storage management and AWS batch operation with Nextflow.",
+        "Dotmatics ELN administration and development of data processing protocols that support compound screening efforts.",
+        "Development of molecular biology assays to evaluate compound activity that have been adopted into compound screening pipeline.",
+        "CRISPR Cas9 genome editing to generate cell line models for mechanistic studies."
       ]
     },
     {
-      "name": "University of Oxford",
+      "name": "de Bruijn lab, University of Oxford",
       "position": "Postdoctoral Research Scientist",
       "startDate": "2022-11-01",
       "endDate": "2023-06-01",
-      "summary": "Short postdoctoral position in the de Bruijn lab, focusing on gene regulatory network modelling in embryonic haematopoiesis.",
-      "highlights": ["Single-cell RNA+ATAC multiomics in embryonic haematopoiesis", "Gene regulatory network analysis"]
+      "summary": "Short-term postdoctoral position in the de Bruijn lab, focusing on gene regulatory network modelling in embryonic haematopoiesis.",
+      "highlights": [
+        "Analysis of single-cell RNA+ATAC multiomics in embryonic haematopoiesis to support ongoing lab projects.",
+        "ChIPmentation and ATAC-seq library preparation and analysis on rare embryonic haematopoietic populations.",
+        "Development of gene regulatory network models to identify key transcription factors in haematopoietic specification.",
+        "Training DPhil students in bioinformatics analysis and NGS library preparation techniques."
+      ]
     },
     {
-      "name": "University of Oxford",
+      "name": "de Bruijn lab, University of Oxford",
       "position": "Research Assistant",
       "startDate": "2018-10-01",
       "endDate": "2022-10-01",
       "summary": "Research assistant position, performing routine lab management, mouse husbandry, bioinformatics, and histology.",
       "highlights": [
-        "Mouse husbandry and embryology",
-        "Molecular biology and CRISPR genome editing",
-        "Bioinformatics and computational biology",
-        "Routine lab maintenance: risk assessments, ordering, training, etc."
+        "Routine wetlab support with mouse husbandry, routine genotyping, dissections, and histology.",
+        "Routine lab management: ordering, risk assessments, equipment training, etc.",
+        "CRISPR Cas9 genome editing to generate cell line models for mechanistic studies.",
+        "Bioinformatics and computational biology to support various lab projects."
       ]
     }
   ],
@@ -52,15 +58,53 @@
       "startDate": "2018-10",
       "endDate": "2022-10",
       "summary": "Thesis title: Regulatory network analyses highlight transcription factor cooperation in haematopoiesis and leukaemogenesis. Supervised by Professor Tom Milne and Professor Marella de Bruijn.",
-      "highlights": ["Received commendation for outstanding thesis"]
+      "highlights": [
+        "Received commendation for outstanding thesis and published first author paper in Genome Research.",
+        "Development analysis of gene regulatory network models in normal and malignant haematopoiesis incorporating multiomics data at bulk and single-cell resolution.",
+        "Application of CRISPR Cas9 genome editing and molecular biology techniques, in vitro and in mouse studies, to validate key network predictions.",
+        "Supervised two masters students in genome editing and bioinformatics projects."
+      ]
+    },
+    {
+      "institution": "University of Reading",
+      "location": "Oxford, UK",
+      "area": "Biomedical Research",
+      "studyType": "MRes",
+      "startDate": "2014-10",
+      "endDate": "2015-10",
+      "summary": "Dissertation title: Investigating the therapeutic effects of cannabinoids on chemotherapy induced muscle cachexia. Supervised by Professor Ketan Patel.",
+      "highlights": [
+        "Awarded distinction."
+      ]
+    },
+    {
+      "institution": "University of Reading",
+      "location": "Oxford, UK",
+      "area": "Biomedical Science",
+      "studyType": "BSc",
+      "startDate": "2010-10",
+      "endDate": "2013-10",
+      "summary": "Dissertation title: Investigating the role of intermediate filaments of the cytoskeleton in skeletal muscle stem cell migration. Supervised by Professor Ketan Patel.",
+      "highlights": [
+        "Awarded 2.1."
+      ]
     }
   ],
   "skills": [
     {
-      "name": "NGS library preparation",
+      "name": "Omics analysis",
       "level": "Advanced",
       "icon": "fa-solid fa-flask",
-      "keywords": ["RNA-seq, TT-seq", "ChIP-seq, CUT&RUN, CUT&Tag, ATAC-seq", "DRIP-seq"]
+      "keywords": [
+        "Transcriptomics: RNA-seq, TT-seq, scRNA-seq, ONT long-read sequencing",
+        "Epigenomics: ChIP-seq, CUT&RUN, CUT&Tag, ATAC-seq",
+        "single cell multiomics: RNA+ATAC, CITE-seq",
+        "RNA biology: DRIP-seq, CLIP-seq",
+        "Chromatin conformation: Hi-C, Capture-C",
+        "CRISPR screens",
+        "Proteomics",
+        "Gene regulatory network inference, transcription factor motif analysis"
+      ]
     },
     {
       "name": "Coding languages",
@@ -72,28 +116,41 @@
       "level": "Advanced",
       "icon": "fa-solid fa-database",
       "keywords": [
-        "Dotmatics administration and protocol development",
-        "AWS S3 storage management",
-        "AWS batch management and operation with Nextflow"
+        "AWS: S3 data management, batch management",
+        "HPC: SLURM and SGE job scheduling",
+        "Data visualisation with R Shiny, Spotfire, and Quarto",
+        "Nextflow pipeline & docker/apptainer development",
+        "Git version control, and establishing company policies",
+        "Dotmatics admin & screening protocol dev"
       ]
     },
     {
-      "name": "Bioinformatics",
+      "name": "Software",
       "level": "Advanced",
       "icon": "fa-solid fa-laptop",
-      "keywords": ["Python, R, Bash", "Nextflow, Snakemake", "Galaxy, Jupyter Notebooks"]
+      "keywords": ["Cytoscape",
+      "Microsoft Office (Word, Excel, PowerPoint)",
+      "Adobe Illustrator, Photoshop",
+      "ImageJ",
+      "FlowJo",
+      "SnapGene",
+      "IGV",
+      "GraphPad Prism"
+    ]
     },
     {
-      "name": "Molecular biology",
+      "name": "Molecular and cell biology",
       "level": "Advanced",
       "icon": "fa-solid fa-flask",
-      "keywords": ["CRISPR genome editing", "qPCR, ddPCR, Sanger sequencing"]
-    },
-    {
-      "name": "Data analysis and visualisation",
-      "level": "Advanced",
-      "icon": "fa-solid fa-chart-bar",
-      "keywords": ["Matplotlib, Seaborn, Plotly", "ggplot2, Shiny"]
+      "keywords": [
+        "Genome editing: CRISPR Cas9",
+        "PCR methods: qPCR, ddPCR, ChIP and ChIP-qPCR",
+        "Cloning: restriction enzyme, Gibson assembly",
+        "Cell culture: transfection/transduction, differentiation assays, viability assays",
+        "Flow cytometry: cell sorting, immunophenotyping",
+        "Animal work: mouse husbandry, genotyping, dissections",
+        "Microscopy: fluorescence, confocal"
+        ]
     }
   ],
   "certificates": [
@@ -110,10 +167,17 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Software carpentry.............",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Software carpentry",
+      "date": "2016-09",
+      "issuer": "EMBL",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "RNA-seq and ChIP-seq training courses at Weatherall Institute of Molecular Medicine CCB facility",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "EDX courses in R programming for data science (PH525.1x - PH525.7x)",
       "icon": "fa-solid fa-envelope"
     }
   ],
@@ -123,7 +187,7 @@
       "publisher": "Cold Spring Harbor Lab",
       "releaseDate": "2021",
       "url": "https://genome.cshlp.org/content/31/7/1159",
-      "summary": "This study identifies a gene regulatory network involving KMT2A and AFF1, two key transcription factors in leukaemia, and elucidates their downstream target genes."
+      "summary": "First author publication of early-DPhil work. This study identifies a gene regulatory network involving KMT2A and AFF1, two key transcription factors in leukaemia, and elucidates their downstream target genes."
     }
   ],
   "conferences": [
@@ -146,7 +210,6 @@
     },
     {
       "name": "RUNX meeting 2019, poster",
-      "publisher": "???",
       "releaseDate": "2019"
     }
   ],
