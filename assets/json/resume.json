@@ -73,9 +73,7 @@
       "startDate": "2014-10",
       "endDate": "2015-10",
       "summary": "Dissertation title: Investigating the therapeutic effects of cannabinoids on chemotherapy induced muscle cachexia. Supervised by Professor Ketan Patel.",
-      "highlights": [
-        "Awarded distinction."
-      ]
+      "highlights": ["Awarded distinction."]
     },
     {
       "institution": "University of Reading",
@@ -85,9 +83,7 @@
       "startDate": "2010-10",
       "endDate": "2013-10",
       "summary": "Dissertation title: Investigating the role of intermediate filaments of the cytoskeleton in skeletal muscle stem cell migration. Supervised by Professor Ketan Patel.",
-      "highlights": [
-        "Awarded 2.1."
-      ]
+      "highlights": ["Awarded 2.1."]
     }
   ],
   "skills": [
@@ -128,15 +124,16 @@
       "name": "Software",
       "level": "Advanced",
       "icon": "fa-solid fa-laptop",
-      "keywords": ["Cytoscape",
-      "Microsoft Office (Word, Excel, PowerPoint)",
-      "Adobe Illustrator, Photoshop",
-      "ImageJ",
-      "FlowJo",
-      "SnapGene",
-      "IGV",
-      "GraphPad Prism"
-    ]
+      "keywords": [
+        "Cytoscape",
+        "Microsoft Office (Word, Excel, PowerPoint)",
+        "Adobe Illustrator, Photoshop",
+        "ImageJ",
+        "FlowJo",
+        "SnapGene",
+        "IGV",
+        "GraphPad Prism"
+      ]
     },
     {
       "name": "Molecular and cell biology",
@@ -150,7 +147,7 @@
         "Flow cytometry: cell sorting, immunophenotyping",
         "Animal work: mouse husbandry, genotyping, dissections",
         "Microscopy: fluorescence, confocal"
-        ]
+      ]
     }
   ],
   "certificates": [
