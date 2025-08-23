@@ -51,8 +51,7 @@
   ],
   "education": [
     {
-      "institution": "University of Oxford",
-      "location": "Oxford, UK",
+      "location": "University of Oxford",
       "area": "Medical Sciences",
       "studyType": "DPhil",
       "startDate": "2018-10",
@@ -66,8 +65,7 @@
       ]
     },
     {
-      "institution": "University of Reading",
-      "location": "Oxford, UK",
+      "location": "University of Reading",
       "area": "Biomedical Research",
       "studyType": "MRes",
       "startDate": "2014-10",
@@ -76,8 +74,7 @@
       "highlights": ["Awarded distinction."]
     },
     {
-      "institution": "University of Reading",
-      "location": "Oxford, UK",
+      "location": "University of Reading",
       "area": "Biomedical Science",
       "studyType": "BSc",
       "startDate": "2010-10",
